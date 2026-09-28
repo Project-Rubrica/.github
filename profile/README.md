@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Project-Rubrica/.github/main/profile/assets/rubrica-logo.png" alt="Rubrica" width="320" />
+  <img src="https://raw.githubusercontent.com/Project-Rubrica/.github/main/profile/assets/rubrica-header.svg" alt="Rubrica" width="480" />
 </p>
 
 <h2 align="center">One app. Every school role.</h2>
